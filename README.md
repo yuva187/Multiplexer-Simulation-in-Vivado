@@ -125,6 +125,10 @@ module mux4_to_1_behavioral (
 endmodule
 ```
 ### 4:1 MUX Structural Implementation
+
+![image](https://github.com/user-attachments/assets/eea81c2c-7dfa-43aa-9cea-1ab4ed54db6c)
+
+
 ```verilog
 module mux2_to_1 (
     input wire A,

@@ -134,12 +134,12 @@ endmodule
 ```
 ## Simulated Output Behavioral Modelling
 
-_______ Here Paste the Simulated output  ___________
+![image](https://github.com/user-attachments/assets/ac6a2c02-0d3d-4ac5-b1bf-d893d0574ead)
+
 
 
 ### 4:1 MUX Structural Implementation
 
-![image](https://github.com/user-attachments/assets/eea81c2c-7dfa-43aa-9cea-1ab4ed54db6c)
 
 
 ```verilog
